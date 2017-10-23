@@ -46,7 +46,7 @@ https://ocw.mit.edu/index.htm - Thanks to my good friend Chuyun Liu
 
 https://www.cprogramming.com/
 
-BOOKS: Will upload PDF versions of them if I have them
+BOOKS: I will upload PDF versions of them if I have them
 
 Introduction to Algorithms 3rd Edition - Thomas H. Cormen, Charles E. Leiserson, R
 

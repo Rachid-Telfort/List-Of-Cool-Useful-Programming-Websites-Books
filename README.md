@@ -1,6 +1,6 @@
 I thought I would provide a list of websites/books I use for help when doing my programming projects
 or for projects that were assigned to me in school. This will be updated periodically. Hopefully someone finds them useful.
-If you're on this pages thank you for visiting.
+If you're on this page thank you for visiting.
 
 WEBSITES:
 

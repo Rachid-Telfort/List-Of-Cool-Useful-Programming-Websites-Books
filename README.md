@@ -5,13 +5,21 @@ If you're on this page thank you for visiting.
 WEBSITES:
 
 http://www.geeksforgeeks.org/
+
 https://stackoverflow.com/
+
 http://www.cplusplus.com
+
 http://en.cppreference.com/w/
+
 https://en.wikipedia.org/ - Specifally about operatorsin C and C++
+
 https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B
+
 https://www.google.com/
+
 https://golang.org/ - Specifially A Tour of Go
+
 https://tour.golang.org/welcome/1
 https://docs.oracle.com/javase/8/docs/
 http://www.boost.org/

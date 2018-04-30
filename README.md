@@ -44,7 +44,7 @@ https://www.cprogramming.com/
 
 https://ocw.mit.edu/index.htm - Thanks to my good friend Chuyun Liu
 
-https://www.cprogramming.com/
+https://www.sfml-dev.org/index.php
 
 BOOKS: I will upload PDF versions of them if I have them
 
